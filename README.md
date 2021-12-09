@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BPFraga (Black Panther - Daniel - Fraga)
+- 👋 Hi, I’m @BPFraga (Daniel Fraga) - [Black Panther Team]
 - 👀 I’m interested in Dada Science.
 - 🌱 I’m currently learning Python, R and another things
 - 💞️ I’m looking to collaborate on ...
